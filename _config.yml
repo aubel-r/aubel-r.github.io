@@ -6,5 +6,5 @@ author: R. Aubel
 email: aubel.r@gmail.com
 avatar: assets/images/avatar.png
 
-baseurl: /mwg           # the subpath of your site, e.g. /blog
+baseurl: ""                     # the subpath of your site, e.g. /blog
 url: https://aubel-r.github.io  # the base hostname & protocol for your site

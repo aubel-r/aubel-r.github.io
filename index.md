@@ -11,5 +11,4 @@ Play with a random remote player, or invite an already met player, or invite a f
 Play with English, French, German, Spanish, Catalan and Italian dictionaries.  
 See word definitions via Wiktionary (English and French only).  
 
-![Screenshot]({{site.baseurl}}/assets/images/screenshot.png)  
-
+![Screenshot]({{site.baseurl}}/assets/images/screenshot.png)<!-- @IGNORE PREVIOUS: link -->
