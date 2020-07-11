@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 icon: fa-user-secret
 permalink: privacy-policy
-order: 2
+order: 3
 ---
 I, as a developer, build in analytics in my Android applications to be able to improve them, to give the user the best possible experience. This samples anonymous non-personal data that simply allows me to find out what users do and do not like. I fully respect the user’s privacy and never collects information that could be directly linked to the user. I also display advertisements to fund the creation of my applications. This is all governed by the following privacy policy:
 
