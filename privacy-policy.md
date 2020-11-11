@@ -5,38 +5,70 @@ icon: fa-user-secret
 permalink: privacy-policy
 order: 3
 ---
-I, as a developer, build in analytics in my Android applications to be able to improve them, to give the user the best possible experience. This samples anonymous non-personal data that simply allows me to find out what users do and do not like. I fully respect the user’s privacy and never collects information that could be directly linked to the user. I also display advertisements to fund the creation of my applications. This is all governed by the following privacy policy:
+**Privacy Policy**
 
-Unless explicitly given the opportunity to accept this policy inside an app, please note that by using or otherwise accessing any of my mobile applications, you are agreeing to this privacy policy. If you do not agree to this privacy policy, please do not use or otherwise access my applications.
+I, as a developer, built my apps as Commercial or Ad Supported apps. This SERVICE is intended for use as is.
 
-### Anonymous Data
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-I may collect and use anonymous data, via Google Analytics. I cannot identify you from this data. Such data is pooled to give me general statistics on my audience and usage of my apps.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-For example, Google Analytics automatically samples a user’s country and city, chosen device language, device model and make, screen resolution, app version being used, operating system version, mobile phone network. This pooled data provides statistics that can help me determine, for example, where my apps are being most commonly used, and on which devices. This can help me determine how to update my apps going forward.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at My Word Game Lite unless otherwise defined in this Privacy Policy.
 
-Google Analytics also automatically collects data including app sessions numbers, session lengths, screen visits, flow from screen to screen, and app acquisition data (where a user came from to install an app). Alongside data that is automatically collected by Google Analytics, I also collect my own anonymous data on my app usage through Google Analytics. This includes game settings chosen, game results and other general UI events. Taken together, this data allows me to improve my apps in many ways. For example, if a high proportion of users can’t beat Droid 4 in My Word Game, I need to make it easier.
+**Information Collection and Use**
 
-None of this collected data can be linked to any individual, and it is pooled to provide me with general usage and audience statistics. I am the only one to use the collected anonymous data.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-Ad networks who provides adverts to my mobile applications may access your unique device identifier and use this to tailor ads to you. Some apps may request a location permission. In this case, your location is also anonymous and is only used by Ad networks to help tailor ads relevant to your location. Privacy Policy links for the networks I use are below.
+The app does use third party services that may collect information used to identify you.
 
-### Third Party Terms and Conditions
+Link to privacy policy of third party service providers used by the app
 
-Please note that certain third parties, including but not limited to application stores, may be needed in order for you to access my mobile applications. These third parties have their own privacy policies which I cannot control. You agree that I not liable for their use of your personal information.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+*   [Fabric](https://policies.google.com/privacy)
 
-### Links to Third Party Sites or Games
+**Log Data**
 
-My mobile applications are supported by advertisements, which provide access to third party sites or apps.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-Please be aware that, if you use any of these links you will leave my app and the page you go to will not be governed by my privacy policy. I cannot be responsible for the privacy of any information you provide whilst outside of my app.
+**Cookies**
 
-### Updates to this Policy
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-I may revise my privacy policy from time to time. When I do, those changes will be reflected here (as accessed via my app pages on the relevant application store). Any significant change I make to data usage will be drawn to your attention via my apps. I encourage you to review this privacy policy from time to time. Your continued use of my applications will signify your acceptance of the changes to this privacy policy.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-### Ad Networks & Analytics Policies
+**Service Providers**
 
-Advertising in my apps is provided by Google Ads network. Analytics is provided by Google Analytics. I choose to only provide ad networks with a minimal set of application permissions required for these ads to function. These analytics and ad networks may use data and cookies to help determine which ads to show you. Their privacy policies can be found at this address: https://www.google.com/intl/en/policies/privacy/partners/.
+I may employ third-party companies and individuals due to the following reasons:
 
-Please be aware that, any information provided as a result of your interaction with these ads will not be governed by my own privacy policy. Ads may redirect you away from my app, and my privacy policy will no longer apply outside of my app. I cannot be responsible for the privacy of any information you provide whilst outside of my app, or any information provided to any of these third parties.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2020-11-11
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at aubel.r@gmail.com.
+
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
