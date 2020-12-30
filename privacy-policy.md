@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 icon: fa-user-secret
 permalink: privacy-policy
-order: 3
+order: 4
 ---
 **Privacy Policy**
 
