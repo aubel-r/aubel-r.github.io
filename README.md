@@ -23,6 +23,9 @@ Finally, install Jekyll and Bundler:
 
 ```
 gem install jekyll bundler
+bundle install
 ```  
+
+> Note: if `bundle install` fails, it may be necessary to delete the lock file (`rm Gemfile.lock`).
 
 That’s it! You’re ready to start using Jekyll.

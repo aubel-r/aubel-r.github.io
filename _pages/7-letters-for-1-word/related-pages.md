@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: 7-letters-for-1-word/page
 title: Related Pages
 icon: fa-link
-permalink: related-pages
+permalink: 7-letters-for-1-word/related-pages
 order: 2
 ---
 

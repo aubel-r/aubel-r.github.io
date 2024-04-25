@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: 7-letters-for-1-word/page
 title: Privacy Policy
 icon: fa-user-secret
-permalink: privacy-policy
+permalink: 7-letters-for-1-word/privacy-policy
+# this redirect (and 'jekyll-redirect-from' plugin) can be removed once the privacy policy URL has been updated in the app
+redirect_from:
+  - privacy-policy
 order: 4
 ---
 **Privacy Policy**

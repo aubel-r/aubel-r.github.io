@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: 7-letters-for-1-word/page
 title: Downloads
 icon: fa-download
-permalink: downloads
+permalink: 7-letters-for-1-word/downloads
 order: 3
 ---
 {% assign apks = site.static_files | where: "apk", true %}

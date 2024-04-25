@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: 7-letters-for-1-word/page
 title: 7 letters for 1 word
 icon: fa-home
+app: true
+permalink: 7-letters-for-1-word/
 order: 1
 ---
 
@@ -14,4 +16,4 @@ See word definitions via Wiktionary (English and French only).
 The best place to get the latest version is the [Google Play Store](https://play.google.com/store/apps/details?id=fr.raubel.mwg.free).
 However, you can also download it from [here]({{site.baseurl}}/downloads).
 
-![Screenshot]({{site.baseurl}}/assets/images/screenshot.png)<!-- @IGNORE PREVIOUS: link -->
+![Screenshot]({{site.baseurl}}/assets/images/7-letters-for-1-word/screenshot.png)<!-- @IGNORE PREVIOUS: link -->
